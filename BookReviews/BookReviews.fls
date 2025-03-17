@@ -1,8 +1,8 @@
-PWD /Users/perrysantry/Documents/Personal/BookReviews
+PWD /Users/perrysantry/Documents/Personal/personal-website/BookReviews
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/perrysantry/Documents/Personal/BookReviews/BookReviews.tex
+INPUT /Users/perrysantry/Documents/Personal/personal-website/BookReviews/BookReviews.tex
 OUTPUT BookReviews.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
